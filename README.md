@@ -10,5 +10,8 @@
 ## 장바구니 추가
 - cart.md 추가
 
+## 사이드바 추가
+- sidebar.md 추가
+
 ## 검색 추가
 - search.md 추가
